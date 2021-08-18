@@ -1,7 +1,2 @@
-<<<<<<< HEAD
 #!/bin/bash
-pwd[D[D[D[D[D[C[C[C
-=======
-#!/bin/bash /n
-pwd
->>>>>>> 9db844edc73a06c5225e2e8e01a5432384c41db1
+echo "pwd"[D[C[C[D
