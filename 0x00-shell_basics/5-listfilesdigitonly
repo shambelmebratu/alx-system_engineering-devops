@@ -1,1 +1,2 @@
-ls -l -u -a[D[D[D[D[D[D[D[D[D[C[C[C,[C[C, [3 -a[D[D[D[D[D[D -u, -a[D[D[D[n ,--numeric-uid-gid -a
+#!/bin/bash
+ls -l, --numeric-uid-gid, -a
